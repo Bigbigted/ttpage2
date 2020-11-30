@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261893039810",
+    "firebase_url": "https://ttpage2.firebaseio.com",
+    "project_id": "ttpage2",
+    "storage_bucket": "ttpage2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261893039810:android:70cc4b37758000f3437d5b",
+        "android_client_info": {
+          "package_name": "com.ttexample.ttpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261893039810-q6d46pltetkalb5fd1q74k60ee1vu9c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3dF1Px3mTioej3C5rMgp8K_BLvsjkuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261893039810-q6d46pltetkalb5fd1q74k60ee1vu9c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
